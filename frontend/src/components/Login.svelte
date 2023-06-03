@@ -1,5 +1,5 @@
 <script>
-  import { replace, push } from "svelte-spa-router";
+  import { replace } from "svelte-spa-router";
   import {
     Login_cred,
     SetPin,
@@ -16,8 +16,7 @@
   function handleLogin() {
     Login_cred(in_value).then((result) => {
       if (in_value.length == 4 && result) {
-        // replace("/home");
-        push("/home");
+        replace("/home");
       }
     });
   }
