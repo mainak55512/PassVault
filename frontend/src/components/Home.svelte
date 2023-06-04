@@ -1,6 +1,5 @@
 <script>
   import logo from "../assets/images/padlock.png";
-  // import { DelPass, GenPass } from "../../wailsjs/go/main/App.js";
   import { push } from "svelte-spa-router";
 
   function storepass() {

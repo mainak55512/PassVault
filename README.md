@@ -1,16 +1,47 @@
-# README
 
-## About
+# PassVault
 
-This is the official Wails Svelte template.
+A simple GUI password manager build with Svelte and Go.
 
-## Live Development
 
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
+## Authors
 
-## Building
+- [Mainak Bhattacharjee](https://github.com/mainak55512)
 
-To build a redistributable, production mode package, use `wails build`.
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Screenshots
+
+![App Screenshot]("./Screenshots & demos/Screenshot_2023-06-04_21-19-05.png")
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
