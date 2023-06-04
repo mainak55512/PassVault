@@ -16,9 +16,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-19-05.png)
-![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-20-53.png)
-![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-20-16.png)
+![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-19-05.png)  ![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-20-53.png)  ![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-20-16.png)
 
 ## Run Locally
 
