@@ -16,7 +16,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](./"Screenshots & demos"/Screenshot_2023-06-04_21-19-05.png)
+![App Screenshot](/Screenshots%20%26%20demos/Screenshot_2023-06-04_21-19-05.png)
 
 
 ## Run Locally
